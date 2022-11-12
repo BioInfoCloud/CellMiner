@@ -8,6 +8,8 @@
 
 数据库地址：[CellMiner - Analysis Tools | Genomics and Pharmacology Facility (nih.gov)](https://discover.nci.nih.gov/cellminer/)
 
+视频讲解：[微信](https://mp.weixin.qq.com/s/eR9wmWJzPj6Oih717qWToA)   [B站](https://www.bilibili.com/video/BV1kP411c7Rs/?vd_source=ad7486d1c0a79f7459d20781ce805fbc)
+
 ## 1.数据下载
 
 [Download Data Sets](https://discover.nci.nih.gov/cellminer/loadDownload.do) 》》》》Processed Data Set: 
